@@ -3,3 +3,4 @@ Sangita
 Kripa
 Nimu
 !st change from dev
+Tag releasr v1.0
